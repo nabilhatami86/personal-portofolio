@@ -5,14 +5,7 @@ import { Fade } from "react-reveal";
 import ucsc from "../../images/ucsc.png";
 import ufm from "../../images/ufm.png";
 import bangkit from "../../images/bangkit.png"
-import nactar from "../../images/nactar.jpg";
-import ccna from "../../images/CCNA_Certificate.jpg";
 import digitalent from "../../images/digitalent.png"
-import skill from "../../images/skill.png";
-import c from "../../images/c.jpg";
-import iq from "../../images/IQ_Test.jpg";
-import computer from "../../images/Computer_knowledge.jpg";
-import graphics from "../../images/Graphics_Design.jpg";
 import Particle from "../../Particle";
 export default function CertificatePage() {
   return (
@@ -187,7 +180,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - Gcloud
+                                  - Google Cloud
                                 </h3>
                               </div>
                             </div>
@@ -395,7 +388,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - dicoding
+                                  - Dicoding
                                 </h3>
                               </div>
                             </div>
@@ -447,7 +440,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - dicoding
+                                  - Dicoding
                                 </h3>
                               </div>
                             </div>
@@ -499,7 +492,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - dicoding
+                                  - Dicoding
                                 </h3>
                               </div>
                             </div>
@@ -551,7 +544,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - dicoding
+                                  - Dicoding
                                 </h3>
                               </div>
                             </div>
@@ -603,7 +596,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - dicoding
+                                  - Dicoding
                                 </h3>
                               </div>
                             </div>
@@ -655,7 +648,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  dicoding
+                                  Dicoding
                                 </h3>
                               </div>
                             </div>
@@ -707,7 +700,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  dicoding
+                                  Dicoding
                                 </h3>
                               </div>
                             </div>
@@ -759,7 +752,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - dicoding
+                                  - Dicoding
                                 </h3>
                               </div>
                             </div>
@@ -811,7 +804,7 @@ export default function CertificatePage() {
                                     marginBottom: "0px",
                                   }}
                                 >
-                                  - dicoding
+                                  - Dicoding
                                 </h3>
                               </div>
                             </div>

@@ -28,7 +28,7 @@ export default function Certification() {
                     <div className="cert-card">
                       <div className="content">
                         <a
-                          href="https://drive.google.com/file/d/1Vz07KtysbeNgZKM24OcEeqZcG2E4OWL-/view?usp=sharing"
+                          href="https://drive.google.com/file/d/1ev9BOLCfNF2cMESbb7ha-rz_V6Gu4dn4/view"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -104,7 +104,7 @@ export default function Certification() {
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                          - dicoding
+                          - Dicoding
                         </h3>
                       </div>
                     </div>
